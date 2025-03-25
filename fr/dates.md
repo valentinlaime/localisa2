@@ -1,7 +1,8 @@
 # CLEF 2024 SimpleText: Dates importantes
 
-[Accueil](./) | [Appel à communications](./CFP) | [dates importantes](./dates) | [Tâches](./tasks)  | [Outils](./tools) | 
-[Programme](./program) | [Publications](./publications) | [Organisateurs](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
+[Accueil](./) | [Appel à communications](./CFD.md) | [Dates importantes](./dates.md) | [Tâches](./taches.md)  | [Outils](./outils.md) | 
+[Programme](./programme.md) | [Publications](./publications.md) | [Organisateurs](./organisateurs.md) | [Contact](./contact.md) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
+
 
 ---
 
